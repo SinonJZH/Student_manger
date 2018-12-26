@@ -1,0 +1,17 @@
+*.obj
+*.exe
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.xml
+*.enc
+*.log
+*.tlog
+*.idb
+*.pdb
+*.lastbuildstate
+*.ilk
+.vs
+/Debug
+/.vs
