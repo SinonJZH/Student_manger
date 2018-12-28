@@ -15,3 +15,5 @@
 .vs
 /Debug
 /.vs
+/.vscode
+/release
